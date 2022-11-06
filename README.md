@@ -1,7 +1,7 @@
 # Issues-encountered in Task4 and Task 5
 
 
-##Difficulty in choosing a proper API 
+## Difficulty in choosing a proper API 
 React storefront does not have its own API but instead can be integrated with other API
 needed to explore other API as an alternative
 pages/api endpoints were not clear in documentation
